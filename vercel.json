@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://yakovski.nimbusweb.me/share/11241321/e6ffccmss04okk0aiig2/$1"
+ }
+  ]
+}
